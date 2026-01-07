@@ -76,8 +76,12 @@ Our AI acts as a behavioral analyst rather than a generic chatbot. It follows a 
 This repository hosts the **landing page** for HabitLoop. It is a static, single-page site designed to visually demonstrate the product's philosophy and functionality. [4]
 
 ### Structure
-HabitLoop/ ├── index.html   # Main structure and markup ├── styles.css   # Visual styling and layout └── README.md    # Documentation
 
+HabitLoop/
+ ├── index.html   # Main structure and markup
+ ├── styles.css   # Visual styling and layout 
+ └── README.md    # Documentation
+ 
 ### Landing Page Breakdown
 1.  **Hero Section:** Displays the value proposition and a mock UI card of a daily goal.
 2.  **Day Flow:** A visual timeline explaining the 3-step user journey.
